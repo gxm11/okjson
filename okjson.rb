@@ -22,7 +22,7 @@
 
 # See https://github.com/kr/okjson for updates.
 
-require 'stringio'
+# require 'stringio'
 
 # Some parts adapted from
 # https://golang.org/src/encoding/json/decode.go and
